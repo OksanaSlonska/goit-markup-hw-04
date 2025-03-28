@@ -225,7 +225,6 @@ img {
 .feature-list {
   display: flex;
   gap: 24px;
-  padding-bottom: 120px;
 }
 
 .feature-item {
@@ -235,17 +234,13 @@ img {
 .feature-icon {
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  width: 100%;
   background: #f4f4fd;
-  margin-bottom: 8px;
-}
-
-.feature-icon {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 100%;
+  padding: 24px;
+  margin-bottom: 8px;
 }
 
 .feature-subtitle {
