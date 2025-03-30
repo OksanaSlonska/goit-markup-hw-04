@@ -314,12 +314,12 @@ img {
 .team-fhoto {
   padding: 32px 0;
 }
+
 .social-list {
   display: flex;
   gap: 24px;
   align-items: center;
   justify-content: center;
-  padding-top: 8px;
 }
 
 .social-icons {
